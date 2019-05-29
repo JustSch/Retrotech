@@ -1,0 +1,13 @@
+body ul {
+  list-style-type: none;
+}
+.center {
+  padding-top: 20px;
+  align-items: center;
+}
+.infoList {
+  border: 2px solid black;
+  border-radius: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

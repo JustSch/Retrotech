@@ -1,0 +1,28 @@
+body ul {
+  list-style-type: none;
+  word-wrap: break-word;
+}
+li.title {
+  font: sans-serif;
+  font-weight: bold;
+}
+div.description {
+  font: sans-serif;
+  font-weight: normal;
+}
+
+.searchB{
+border-radius:50%;
+}
+
+.form-control{
+  border-radius: 40px;
+}
+
+.one{
+  z-index: 2;
+} 
+
+.btns{
+  width:initial;
+}
